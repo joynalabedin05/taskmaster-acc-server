@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Task 1",
+      "description": "Complete project report",
+      "date": "2023-09-10",
+      "assignedTo": "John Doe",
+      "priority": "High",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "Prepare presentation",
+      "date": "2023-09-12",
+      "assignedTo": "Jane Smith",
+      "priority": "Medium",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "description": "Review code changes",
+      "date": "2023-09-15",
+      "assignedTo": "Alice Johnson",
+      "priority": "Low",
+      "status": "pending"
+    }
+  ]
+  
